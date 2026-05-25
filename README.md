@@ -25,9 +25,9 @@ The analysis follows a standard genomic epidemiology pipeline
   # Installation
   In R, seraphim can be installed with the devtools package:
   
-  install.packages("devtools"); library(devtools)
-install_github("sdellicour/seraphim/unix_OS") # (for a Unix OS)
-install_github("sdellicour/seraphim/windows") # (for a Windows OS)
+  - install.packages("devtools"); library(devtools)
+- install_github("sdellicour/seraphim/unix_OS") # (for a Unix OS)
+- install_github("sdellicour/seraphim/windows") # (for a Windows OS)
 
 # Package references
 Dellicour S, Faria N, Rose R, Lemey P, Pybus OG (2026). SERAPHIM 2.0: an extended toolbox for studying phylogenetically informed movements. Bioinformatics 42: btag093
