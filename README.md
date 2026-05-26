@@ -15,7 +15,7 @@ The analysis follows a standard genomic epidemiology pipeline
 4) Spatio-temporal analysis : Using the R Package seraphim to extract dispersal trajectories and estimate dispersal statistics
 
 # Repository Content 
-- Output_rapport_2 : 
+- Output_rapport_2
 - data : Genomic sequences in FASTA format
 - phylogeny : .treefile and initial ML trees from IQ-TREE
 - XML : configuration dile used for the BEAST analysis 
